@@ -1,1 +1,7 @@
 *.png
+
+Assignments/a_3/data/
+Assignments/.venv/
+Assignments/.venv-1
+
+.venv/
